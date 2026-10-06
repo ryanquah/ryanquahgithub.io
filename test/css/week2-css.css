@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(255, 255, 0, 0.307);
+    color: brown;
+}
+
+h1,
+h2 {
+    color: purple;
+    background-color: lightgreen;
+    border: 4px dotted yellow;
+    border-radius: 80px;
+    padding: 10px;
+    margin: 40px;
+    font-weight: normal;
+}
+
+p {
+    color: green;
+    background-color: pink;
+    padding: 30px;
+    font-weight: bold;
+}
+
+.bg-red {
+    background-color: red;
+}

@@ -1,0 +1,65 @@
+.request {
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    border: 0px;
+    margin: 3px
+}
+
+.signup {
+    background-color: rgba(86, 164, 89);
+    color: white;
+    padding: 9px 23px;
+    border-radius: 4px;
+    font-weight: bold;
+    border: 0px;
+    margin: 4px
+}
+
+.getstarted {
+    background-color: rgba(115, 84, 173);
+    color: white;
+    padding: 9px 20px;
+    border-radius: 3px;
+    font-weight: bold;
+    border: 0px;
+    margin: 3px
+}
+
+.download {
+    background-color: white;
+    color: rgba(114, 116, 122);
+    padding: 9px 23px;
+    border-radius: 3px;
+    font-weight: bold;
+    border: 1px solid rgba(114, 116, 122);
+    margin: 3px
+}
+
+.addtocart {
+    background-color: rgba(249, 218, 78);
+    border-radius: 25px;
+    padding: 7px 55px;
+    border: 0px;
+    margin: 4px
+}
+
+.applyto {
+    background-color: rgba(43, 101, 193);
+    color: rgba(253, 254, 255);
+    border-radius: 25px;
+    padding: 8px 30px;
+    border: 0px;
+    font-weight: bold;
+    margin: 6px
+}
+
+.save {
+    background-color: rgba(253, 254, 255);
+    color: rgba(56, 102, 189);
+    border-radius: 25px;
+    padding: 10px 20px;
+    border: 1px solid rgba(56, 102, 189);
+    font-weight: bold;
+    margin: 3px
+}
