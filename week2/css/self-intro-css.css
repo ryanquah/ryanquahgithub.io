@@ -1,0 +1,21 @@
+body {
+    background: rgb(0, 0, 0);
+}
+
+.ryan {
+    background: rgb(149, 1, 1);
+    padding: 10px 600px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.quote {
+    background: rgb(61, 0, 0);
+    color: white;
+    padding: 9px 20px;
+    border: 2px dotted rgb(149, 1, 1);
+}
+
+.intro {
+    color: rgb(149, 1, 1);
+}
